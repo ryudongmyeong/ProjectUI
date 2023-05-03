@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">UI</string>
+
+    <string name="hint_pw">Password</string>
+    <string name="email">Email</string>
+    <string name="nickname">Nickname</string>
+    <string name="re_pw">Re-Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="join_con">NickName, PW, re-PW , Email를 정확하게 입력해야합니다.</string>
+    <string name="join_title">회원가입</string>
+    <string name="join_cont_name">이름(필수)</string>
+    <string name="join_cont_bir">생년월일(필수)</string>
+    <string name="join_cont_num">휴대폰번호(필수)</string>
+    <string name="join_cont_email">이메일</string>
+    <string name="join_hint_name">실명을 입력하세요</string>
+    <string name="join_hint_phone">\'-\'구분 없이 입력</string>
+    <string name="join_hint_bir">8자리 입력(YYYYMMDD)</string>
+    <string name="join_hint_email">ex. email@email.com</string>
+
+    <string name="title">Title</string>
+    <string name="checkBox">북마크</string>
+    <string name="username">"@username"</string>
+    <string name="hashtag">#봄 #친구랑 #식도락</string>
 </resources>
