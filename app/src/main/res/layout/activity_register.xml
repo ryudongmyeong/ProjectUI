@@ -10,7 +10,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/dandelion5"
-    android:alpha="0.3"/>
+    android:alpha="0.4"/>
 
     <EditText
         style="@style/login_editText"
